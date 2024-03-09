@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/JonaRichter/trading_bot">
-    <img src="images/logo.webp" alt="Logo" width="80" height="80">
+    <img src="images/" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">E-Mail Bot</h3>
 
   <p align="center">
-    This Python script automates the process of sending personalized emails to Spotify playlist managers. It reads contact information from a CSV file, constructs customized email messages introducing the sender (a music producer) and their latest song release, and sends the emails via SMTP with SSL authentication to the GMX mail server. The goal is to streamline outreach efforts and increase the likelihood of the song being considered for playlist inclusion.
+    Under work
     <br />
     <a href="https://github.com/JonaRichter/trading_bot"><strong>Explore the docs »</strong></a>
     <br />
